@@ -1,4 +1,5 @@
 sudhir Pandit 
+<<<<<<< HEAD
 Tanaya Pai
 
 Mangalore
@@ -6,3 +7,12 @@ Bangalore
 
 India
 India
+=======
+Sanchitha
+
+Mangalore
+Delhi
+
+India
+india
+>>>>>>> master
